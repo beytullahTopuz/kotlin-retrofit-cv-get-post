@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/beytu/AndroidStudioProjects/cv_project/app/src/main/res/layout/activity_main.xml" value="0.13333333333333333" />
+        <entry key="..\:/Users/beytu/AndroidStudioProjects/cv_project/app/src/main/res/layout/cv_item_card.xml" value="0.4676258992805755" />
+        <entry key="..\:/Users/beytu/AndroidStudioProjects/cv_project/app/src/main/res/layout/fragment_add_cv.xml" value="0.1" />
+        <entry key="..\:/Users/beytu/AndroidStudioProjects/cv_project/app/src/main/res/layout/fragment_admin_home.xml" value="0.264" />
+        <entry key="..\:/Users/beytu/AndroidStudioProjects/cv_project/app/src/main/res/layout/fragment_cv_deatil.xml" value="0.264" />
+        <entry key="..\:/Users/beytu/AndroidStudioProjects/cv_project/app/src/main/res/layout/fragment_home.xml" value="0.134375" />
+        <entry key="..\:/Users/beytu/AndroidStudioProjects/cv_project/app/src/main/res/menu/menu.xml" value="0.152" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

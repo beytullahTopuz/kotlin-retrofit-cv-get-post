@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#F2E4F9"
+    tools:context=".ui.view.fragment.AdminHomeFragment">
+
+    <TextView
+        android:layout_margin="18dp"
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:textStyle="bold"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="CV List"
+        android:textSize="28sp"
+        tools:layout_editor_absoluteY="18dp" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/cvListRecyclerView"
+        android:layout_width="match_parent"
+        android:layout_margin="18dp"
+        android:layout_height="match_parent"
+        tools:listitem="@layout/cv_item_card"
+        tools:layout_editor_absoluteX="-16dp"
+        tools:layout_editor_absoluteY="220dp" />
+
+
+</androidx.appcompat.widget.LinearLayoutCompat>
